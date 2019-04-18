@@ -6,7 +6,7 @@ A solution for institutions wishing to deploy BinderHub on Campus
 
 Requirement from the turing Institute but others have also requested access to a one button click deploy of BinderHub on Azure
 
-Build a BinderHub - Some inital investigation at https://github.com/alan-turing-institute/the-turing-way/issues/317
+Build a BinderHub - Some initial investigation at https://github.com/alan-turing-institute/the-turing-way/issues/317
 
 
 ### Sprint objectives
