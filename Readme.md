@@ -11,9 +11,9 @@ Build a BinderHub - Some inital investigation at https://github.com/alan-turing-
 
 ### Sprint objectives
 
-- Create Documentation for deployment on Azure on Binderhub with link to deployment https://github.com/jupyterhub/binderhub
+- Create Documentation for deployment on Azure on Binderhub with link to deployment https://github.com/jupyterhub/binderhub & https://binderhub.readthedocs.io/en/latest/ 
 - Create one button click for Azure Deployment 
 https://docs.microsoft.com/en-us/powershell/gallery/how-to/working-with-packages/deploy-to-azure-automation 
 Ideally Publish Image to Azure Marketplace - https://docs.microsoft.com/en-us/azure/marketplace/marketplace-publishers-guide 
-- Learning prerequisites for deployment of JupyterHub on Azure for potential Microsoft Learn http://aka.ms/learn modules
+- Learning prerequisites for deployment of Binderhub and usage on Azure for potential Microsoft Learn http://aka.ms/learn modules
 
