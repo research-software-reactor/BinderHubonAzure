@@ -6,8 +6,9 @@ A solution for institutions wishing to deploy BinderHub on Campus
 
 Requirement from the turing Institute but others have also requested access to a one button click deploy of BinderHub on Azure
 
-Build a BinderHub - Some initial investigation at https://github.com/alan-turing-institute/the-turing-way/issues/317
+## Build a BinderHub 
 
+Live Repo - https://github.com/alan-turing-institute/binderhub-deploy 
 
 ### Sprint objectives
 
@@ -16,4 +17,5 @@ Build a BinderHub - Some initial investigation at https://github.com/alan-turing
 https://docs.microsoft.com/en-us/powershell/gallery/how-to/working-with-packages/deploy-to-azure-automation 
 Ideally Publish Image to Azure Marketplace - https://docs.microsoft.com/en-us/azure/marketplace/marketplace-publishers-guide 
 - Learning prerequisites for deployment of Binderhub and usage on Azure for potential Microsoft Learn http://aka.ms/learn modules
+
 
