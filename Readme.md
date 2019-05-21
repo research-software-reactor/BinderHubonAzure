@@ -8,7 +8,11 @@ Requirement from the turing Institute but others have also requested access to a
 
 ## Build a BinderHub 
 
-Live Repo - https://github.com/alan-turing-institute/binderhub-deploy 
+Working Repo https://github.com/alan-turing-institute/binderhub-deploy 
+
+## Workshop instructions on how to deploy Binder hub on Azure
+
+https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/build-a-binderhub/workshop-presentations/zero-to-binderhub.md
 
 ### Sprint objectives
 
